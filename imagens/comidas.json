@@ -1,4 +1,5 @@
-{ "comidas":[
+
+    [
         {
             "macarao":{ 
                 "url":"https://i0.statig.com.br/bancodeimagens/69/b2/my/69b2mydwu808ftj2k95ehggwd.jpg",
@@ -6,6 +7,7 @@
                 "preco" : 50
             }
         },
+
         {
             "picanha":{
                 "url" : "https://static.clubedaanamariabraga.com.br/wp-content/uploads/2019/05/picanha-perfeita-scaled.jpg",
@@ -13,6 +15,7 @@
                 "preco" : 90
             }
         },
+
         {   
             "salada":{
                 "url":"https://blog.supernosso.com/wp-content/uploads/2021/08/Como-temperar-uma-salada-opt-540x326.jpg",
@@ -30,4 +33,3 @@
             }
         }
     ]
-}
